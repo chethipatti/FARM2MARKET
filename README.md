@@ -34,6 +34,6 @@
 ### Made By
 <a href = "#" >Mahender Saragada</a> <br>
 <a href = "https://in.linkedin.com/in/chethipatti-raja-82b51632a" >CHETHIPATTI RAJA</a><br>
-<a href = "#" >KATAKURI Manoj</a> <br>
+<a href = "https://www.linkedin.com/in/manoj-katkuri-b0b37a354" >KATAKURI Manoj</a> <br>
 <a href = "https://www.linkedin.com/in/gourolu-charitha-reddy-03298332a" >Gourolu Charitha</a> <br>
 <a href = "https://www.linkedin.com/in/ramya-vemulapally-31ba58264" >Vemulapally Ramya</a><br>
